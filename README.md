@@ -1,4 +1,4 @@
-The instruction does not mention what the second button should be in the Action column, so I assumed Delete button.
+The instruction does not mention what the second button should be in the Action column, so I assumed Delete button. In addtion, the data has a duplicate sku and I had to change the duplicated sku.
 
 The app uses Tailwindcss, DaisyUI, React-Icons, NextJs, and Json-Server
 
