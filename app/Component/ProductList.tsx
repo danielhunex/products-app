@@ -39,7 +39,7 @@ const ProductList = ({ headers, body }: ProductListProps) => {
         />
       </div>
       <table className="w-full table-fixed border-collapse border border-gray-300">
-        <thead className="bg-gradient-to-r from-indigo-500 to-purple-500 text-white">
+        <thead className="bg-blue-200 text-secondary">
           <tr>
             {headers.map((head) => (
               <th className="px-4 py-2 w-1/7 text-left" key={head.name}>
